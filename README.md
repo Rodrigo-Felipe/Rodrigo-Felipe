@@ -20,13 +20,4 @@ Olá, meu nome é **Rodrigo Felipe da Silva**, sou de Santa Rita do Sapucaí, *D
 
 </p>
 
-
-<div style="display: inline_block"><br> 
-</div>
-<p>Contatos</p>
-<div>   
-  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
- 
-</div>
-
 <p align="center">📗Quanto mais aprendo, mais me torno 🍀</p>
