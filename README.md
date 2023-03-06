@@ -27,8 +27,7 @@ Olá, meu nome é **Rodrigo Felipe da Silva**, sou de Santa Rita do Sapucaí, *D
 </div>
 <div style="display: inline_block"><br> 
 </div>
- <br />
-<br />
+ 
 <p>Contatos</p>
 <div> 
   <a href = "mailto:juliocarvalhocbq@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
