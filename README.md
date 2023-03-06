@@ -3,7 +3,7 @@ Olá, meu nome é **Rodrigo Felipe da Silva**, sou de Santa Rita do Sapucaí, *D
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/trepichio/trepichio/master/assets/code.gif" width=50% />
 <br />
 **Full-Stack**
-- 📖 Experiência (+ 2 anos ) em desenvolvimento de Software desktop em Java (Swing/JavaFX) e PostgreSQL;</br>
+- 📖 Experiência em desenvolvimento de Software desktop em Java (Swing/JavaFX) e PostgreSQL;</br>
 - 📖 Organização de códigos fonte utilizando Github;</br>
 <br />
 <br />
