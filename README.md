@@ -19,7 +19,8 @@ Olá, meu nome é **Rodrigo Felipe da Silva**, sou de Santa Rita do Sapucaí, *D
 <img align="center" alt="Rafa-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
 
 </p>
-
+<br />
+<br />
 <div align="center">
   <a href="https://github.com/Rodrigo-Felipe">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Rodrigo-Felipe&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
