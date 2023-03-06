@@ -17,7 +17,14 @@ Olá, meu nome é **Júlio César Carvalho**, sou de Santa Rita do Sapucaí, *De
 <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 <img align="center" alt="Rafa-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
 </p>
-
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
 <div align="center">
   <a href="https://github.com/juliocarvalho2019">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=juliocarvalho2019&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
